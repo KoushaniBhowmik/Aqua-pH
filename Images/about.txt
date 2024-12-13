@@ -1,15 +1,29 @@
-🛠️ Components Required
-Arduino (e.g., Arduino Uno)
-pH Sensor Module
-16x2 LCD Display
-10kΩ Potentiometer (for LCD contrast adjustment)
-Jumper Wires
-Breadboard (optional for prototyping)
-Power Supply (USB cable or battery pack)
+<h3>🛠️ Components Required</h3>
+1. Arduino (e.g., Arduino Uno)
+2. pH Sensor Module
+3. 16x2 LCD Display
+4. 10kΩ Potentiometer (for LCD contrast adjustment)
+5. Jumper Wires
+6. Breadboard (optional for prototyping)
+7. Power Supply (USB cable or battery pack)
 
 
-⚡ Circuit Connections
+<h3>⚡ Circuit Connections</h3>
 1️⃣ LCD Display
+<table>
+  <tr>
+    <th>LCD Pin</th>
+    <th>Arduino Pin</th>
+  </tr>
+  <tr>
+    <td>RS</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>RS</td>
+    <td>8</td>
+  </tr>
+</table>
 LCD Pin	Arduino Pin
 RS	8
 EN	9
