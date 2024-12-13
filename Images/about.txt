@@ -24,9 +24,9 @@ Use a 10kΩ potentiometer to adjust the LCD contrast. Connect its middle pin to 
 
 2️⃣ pH Sensor Module
 Sensor Pin	     Arduino Pin
-  Signal	             A0
-   VCC	             5V
-   GND	             GND
+  Signal	            A0
+  VCC	               5V
+  GND	               GND
 
 
 3️⃣ Power Supply
