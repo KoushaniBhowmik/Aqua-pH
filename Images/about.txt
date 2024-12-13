@@ -17,14 +17,14 @@ LCD Pin	      Arduino Pin
    D5	            11
    D6	            12
    D7	            13
-   VCC	         5V
-   GND	         GND
+   VCC	           5V
+   GND	           GND
 Use a 10kΩ potentiometer to adjust the LCD contrast. Connect its middle pin to the LCD’s VO pin and the other two pins to VCC and GND.
 
 
 2️⃣ pH Sensor Module
 Sensor Pin	     Arduino Pin
-  Signal	            A0
+  Signal	      A0
   VCC	               5V
   GND	               GND
 
