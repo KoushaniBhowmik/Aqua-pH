@@ -1,4 +1,4 @@
-<h3>🛠️ Components Required</h3>
+🛠️ Components Required
 1. Arduino (e.g., Arduino Uno)
 2. pH Sensor Module
 3. 16x2 LCD Display
@@ -8,39 +8,25 @@
 7. Power Supply (USB cable or battery pack)
 
 
-<h3>⚡ Circuit Connections</h3>
+⚡ Circuit Connections
 1️⃣ LCD Display
-<table>
-  <tr>
-    <th>LCD Pin</th>
-    <th>Arduino Pin</th>
-  </tr>
-  <tr>
-    <td>RS</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>RS</td>
-    <td>8</td>
-  </tr>
-</table>
-LCD Pin	Arduino Pin
-RS	8
-EN	9
-D4	10
-D5	11
-D6	12
-D7	13
-VCC	5V
-GND	GND
+LCD Pin	      Arduino Pin
+   RS	            8
+   EN	            9
+   D4	            10
+   D5	            11
+   D6	            12
+   D7	            13
+   VCC	          5V
+   GND	          GND
 Use a 10kΩ potentiometer to adjust the LCD contrast. Connect its middle pin to the LCD’s VO pin and the other two pins to VCC and GND.
 
 
 2️⃣ pH Sensor Module
-Sensor Pin	Arduino Pin
-Signal	A0
-VCC	5V
-GND	GND
+Sensor Pin	     Arduino Pin
+  Signal	           A0
+   VCC	             5V
+   GND	             GND
 
 
 3️⃣ Power Supply
